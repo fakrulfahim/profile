@@ -25,7 +25,7 @@ h1{
 .oneMain{
     display: flex;
     justify-content: space-between;
-    background-image: url("image/Top.png");
+    background-image: url("image/top.png");
     background-repeat: no-repeat;
 }
 
@@ -209,13 +209,13 @@ p{
     margin-top: 7%;
 }
 .bg{
-    background-image: url(image/Bac.png);
+    background-image: url(image/bac.png);
     background-size: 600px;
     background-repeat: no-repeat;
     background-position: left;
 }
 .bg_2{
-    background-image: url(image/Bac2.png);
+    background-image: url(image/bac2.png);
     background-size: 600px;
     background-repeat: no-repeat;
     background-position: right;
